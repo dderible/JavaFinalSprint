@@ -1,0 +1,55 @@
+[
+    {
+        "fname": "John",
+        "lname": "Doe",
+        "gender": "Male",
+        "birthday": "Undisclosed",
+        "status": "Single",
+        "salary": 40000
+      },
+
+      {
+        "fname": "Jane",
+        "lname": "Johnson",
+        "gender": "Female",
+        "birthday": "03/06/1998",
+        "status": "Married",
+        "salary": 62700
+      },
+
+      {
+        "fname": "Austin",
+        "lname": "Harford",
+        "gender": "Male",
+        "birthday": "09/17/1995",
+        "status": "Undisclosed",
+        "salary": 20900
+      },
+
+      {
+        "fname": "Brittany",
+        "lname": "Shamble",
+        "gender": "Undisclosed",
+        "birthday": "11/21/2000",
+        "status": "Single",
+        "salary": 9600
+      },
+
+      {
+        "fname": "Blake James",
+        "lname": "Thompson",
+        "gender": "Male",
+        "birthday": "04/20/1979",
+        "status": "Widowed",
+        "salary": 103700
+      },
+
+      {
+        "fname": "Katia",
+        "lname": "Gerald",
+        "gender": "Female",
+        "birthday": "12/27/1996",
+        "status": "Single",
+        "salary": 74100
+      }
+]
